@@ -1,2 +1,2 @@
 # futureapparelrevised
-Larave;
+Laravel website for future apparel
